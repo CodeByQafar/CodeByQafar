@@ -1,15 +1,24 @@
-## Hi there 👋
+# Hi, I'm Qafar 👋
 
-I’m Qafar, a **Mobile App Developer** passionate about building smart, user-friendly applications.  
-I started coding at the age of **14**, developing small web projects. Later, I transitioned to **Flutter**,  
-and by **16**, I published my first apps on Google Play.  
+I’m a **mobile app developer** who enjoys building smart and user-friendly applications.  
 
-Although my early apps were amateur, they gave me the opportunity to experiment with different technologies —  
-including creating demo projects in **Unity** and exploring various development tools.  
+I started coding at **14** with small web projects. Not long after, I discovered **Flutter**, and by the age of **16**, I had my first apps published on Google Play.  
 
-Over time, my focus shifted towards **AI**, especially using **TensorFlow** for experimental projects.  
-Now, my main goal is to advance in both **mobile development** and **artificial intelligence**,  
-creating applications that are simple on the outside but smart under the hood.
+Along the way, I also experimented with other technologies — like making small demo projects in **Unity** as a side hobby — but my main focus has always stayed on **mobile development** (especially with Flutter).  
+
+Lately, I’ve been exploring **AI** with **TensorFlow** for experimental projects. My goal is to create apps that look simple on the outside but have powerful, intelligent features under the hood.  
+
+
+### 🛠 Languages, Tools & Frameworks
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
 
 ## 📊 Stats
 ![](https://github-readme-stats.vercel.app/api?username=CodebyQafar&theme=radical&show_icons=true)
