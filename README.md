@@ -1,4 +1,4 @@
-# Hi, I'm Qafar 👋
+# Hi, I'm Megrur  👋
 
 I’m a **mobile app developer** who enjoys building smart and user-friendly applications.  
 
